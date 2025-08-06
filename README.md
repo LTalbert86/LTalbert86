@@ -6,8 +6,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can type up to 90 wpm
 
-- TryHackMe -
-- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4517801" style='border:none;'></iframe>
 
 <!---
 LTalbert86/LTalbert86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
